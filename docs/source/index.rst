@@ -6,6 +6,9 @@
 Welcome to MPAS Contributor's Guide's documentation!
 ====================================================
 
+.. image:: _static/excalidraw_test.svg
+   :alt: Simple diagram
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
@@ -15,6 +18,4 @@ Welcome to MPAS Contributor's Guide's documentation!
 Indices and tables
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
