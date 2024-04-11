@@ -17,6 +17,7 @@ Welcome to MPAS Contributor's Guide's documentation!
    :caption: Contents:
 
    where_to_start
+   creating_a_branch
 
 
 
