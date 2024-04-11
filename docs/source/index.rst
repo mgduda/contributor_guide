@@ -22,6 +22,7 @@ Welcome to MPAS Contributor's Guide's documentation!
    committing_changes
    required_testing
    creating_a_pr
+   rebasing_a_branch
 
 
 Indices and tables
