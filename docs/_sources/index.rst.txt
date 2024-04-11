@@ -9,6 +9,9 @@ Welcome to MPAS Contributor's Guide's documentation!
 .. image:: _static/excalidraw_test.svg
    :alt: Simple diagram
 
+.. image:: images/squares.svg
+   :alt: Some squares with opacity
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
