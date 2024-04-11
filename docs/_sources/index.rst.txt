@@ -19,7 +19,7 @@ Welcome to MPAS Contributor's Guide's documentation!
    where_to_start
    creating_a_branch
    coding_style
-
+   committing_changes
 
 
 Indices and tables
