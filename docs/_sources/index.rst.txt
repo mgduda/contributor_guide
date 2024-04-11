@@ -13,11 +13,12 @@ Welcome to MPAS Contributor's Guide's documentation!
    :alt: Some squares with opacity
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
 
    where_to_start
    creating_a_branch
+   coding_style
 
 
 
