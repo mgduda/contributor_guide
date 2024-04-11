@@ -16,6 +16,8 @@ Welcome to MPAS Contributor's Guide's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   where_to_start
+
 
 
 Indices and tables
