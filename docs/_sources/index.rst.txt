@@ -20,6 +20,7 @@ Welcome to MPAS Contributor's Guide's documentation!
    creating_a_branch
    coding_style
    committing_changes
+   creating_a_pr
 
 
 Indices and tables
